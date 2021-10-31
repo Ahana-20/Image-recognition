@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+    color: black;
+    
+}
+
+.heading{
+   width : 70%;
+   font-size: 23px; 
+}
+
+.name_of_objects,#objectName,#objectAccuracy{
+    color:darkred;
+}
+
+#camera{
+    border: 2px solid white ;
+    width: 600px;
+    height:300px;
+
+}
+
